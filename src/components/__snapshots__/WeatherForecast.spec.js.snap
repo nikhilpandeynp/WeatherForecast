@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render with weather forecast 1`] = `
+<table>
+  <thead>
+    <tr>
+      <th>
+        16/5/2018
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        31
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`should render without weather forecast 1`] = `<div />`;
